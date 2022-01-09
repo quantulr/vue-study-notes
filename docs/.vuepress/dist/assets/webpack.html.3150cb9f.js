@@ -1,0 +1,1 @@
+const t={key:"v-370224d3",path:"/notes/webpack.html",title:"webpack",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"notes/webpack.md"};export{t as data};
